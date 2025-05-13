@@ -14,5 +14,7 @@
 6. Person scanner 
   <br>
 7. Finlay Hunter Fan Club  
+<br>
+8. Racism bot
 </h3>
 
